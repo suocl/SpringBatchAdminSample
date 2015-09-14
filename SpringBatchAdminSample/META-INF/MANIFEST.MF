@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: org.springframework.batch.admin.sample.ExampleItemReader
+
+Name: org/apache/log4j/
+Implementation-Version: 1.2.14
+Implementation-Title: log4j
+Implementation-Vendor: "Apache Software Foundation"
+
+Name: org/aspectj/lang/
+Implementation-Title: org.aspectj.tools
+Implementation-Version: 1.5.4
+Bundle-Name: AspectJ
+Bundle-Version: 1.5
+Specification-Vendor: aspectj.org
+Specification-Title: AspectJ Runtime Classes 
+Bundle-Copyright: (C) Copyright 1999-2001 Xerox Corporation, 2002 Palo
+   Alto Research Center, Incorporated (PARC), 2003-2005 Contributors. 
+  All Rights Reserved.
+Import-Package: org.aspectj.lang,org.aspectj.lang.reflect,org.aspectj.
+  runtime
+Specification-Version: 1.5
+Implementation-Vendor: aspectj.org
+
